@@ -1,0 +1,12 @@
+body{
+    background-image: conic-gradient(red,pink,#0dd6e0, #00ff00, #0066cc, yellow,white, green,black,grey,purple,#ffff1a, #ffcc66,orange, blue, black);
+}
+
+#title{
+    font-family: 'Rye', Impact;
+    width: 434px;
+}
+button{
+    width: 145px;
+    height: 35px;
+}
